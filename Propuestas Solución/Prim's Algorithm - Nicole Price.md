@@ -9,6 +9,7 @@ Consiste en dividir los nodos de un grafo en dos conjuntos: visitados y no visit
 En un grafo denso, la complejidad tiende a ser **O(n^2)**, mas si se implementa en montículos, la complejidad es de **O(a logn)**.
 
 '''
+
     Algoritmo_Prim(G grafo, A conjunto_aristas)
             A:= conjunto_vacío;
             VISTOS:= añadir (conjunto_vacio, {1});
