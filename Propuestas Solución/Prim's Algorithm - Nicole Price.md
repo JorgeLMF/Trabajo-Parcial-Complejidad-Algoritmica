@@ -44,6 +44,15 @@ En las siguientes líneas se presentará un pseudocódigo del Algoritmo de Prim 
     FinAlgoritmo_Prim
 ```
  En este, se usan arreglos para almacenar los nodos VISITADOS, VECINOS y COSTE MÍNIMO para los vértices seleccionados durante la ejecución del algoritmo.
+ 
+## Diagrama de flujo
+En la siguiente imagen se podrá observar el Diagrama de Flujo con respecto a este Algoritmo
+<p align=center>
+    ![PRIM](https://user-images.githubusercontent.com/54080805/135726278-c5a156d0-d22d-43a4-920d-827a8283a77a.png)
+    <div align="center"> Figura 1: Diagrama de Flujo del Algoritmo de Prim. Elaboración propia
+</p>
+
+    
 
 ## Referencias bibliográficas
 - Cuesta, J. (11 de abril de 2013). Algoritmo de Prim. *Complejidad Algorítmica*. Recuperado de https://sites.google.com/site/complejidadalgoritmicaes/prim \[Consulta: 2 de octubre de 2021].
