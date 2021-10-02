@@ -47,4 +47,4 @@ En las siguientes líneas se presentará un pseudocódigo del Algoritmo de Prim 
 
 ## Referencias bibliográficas
 - Cuesta, J. (11 de abril de 2013). Algoritmo de Prim. *Complejidad Algorítmica*. Recuperado de https://sites.google.com/site/complejidadalgoritmicaes/prim \[Consulta: 2 de octubre de 2021].
-- Grafos Soft (2012). Grafos - software para la construcción, edición y análisis de grafos. Recuperado de https://arodrigu.webs.upv.es/grafos/doku.php?id=algoritmo_prim \[Consulta: 25 de setiembre de 2021].
+- Grafos Soft (2012). *Grafos - software para la construcción, edición y análisis de grafos*. Recuperado de https://arodrigu.webs.upv.es/grafos/doku.php?id=algoritmo_prim \[Consulta: 25 de setiembre de 2021].
