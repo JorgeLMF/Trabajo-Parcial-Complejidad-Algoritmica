@@ -47,10 +47,9 @@ En las siguientes líneas se presentará un pseudocódigo del Algoritmo de Prim 
  
 ## Diagrama de flujo
 En la siguiente imagen se podrá observar el Diagrama de Flujo con respecto a este Algoritmo
-<p align=center>
+
 ![PRIM](https://user-images.githubusercontent.com/54080805/135726278-c5a156d0-d22d-43a4-920d-827a8283a77a.png)
 <div align="center"> Figura 1: Diagrama de Flujo del Algoritmo de Prim. Elaboración propia
-</p>
 
     
 
