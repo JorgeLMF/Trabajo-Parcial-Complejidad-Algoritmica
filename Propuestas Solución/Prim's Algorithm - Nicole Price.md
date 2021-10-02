@@ -49,11 +49,10 @@ En las siguientes líneas se presentará un pseudocódigo del Algoritmo de Prim 
 En la siguiente imagen se podrá observar el Diagrama de Flujo con respecto a este Algoritmo
 
 ![PRIM](https://user-images.githubusercontent.com/54080805/135726278-c5a156d0-d22d-43a4-920d-827a8283a77a.png)
-<div align="center"> Figura 1: Diagrama de Flujo del Algoritmo de Prim. Elaboración propia
+Figura 1: Diagrama de Flujo del Algoritmo de Prim. Elaboración propia
 
     
 
 ## Referencias bibliográficas
-<div align="left"> 
 - Cuesta, J. (11 de abril de 2013). Algoritmo de Prim. *Complejidad Algorítmica*. Recuperado de https://sites.google.com/site/complejidadalgoritmicaes/prim \[Consulta: 2 de octubre de 2021].
 - Grafos Soft (2012). *Grafos - software para la construcción, edición y análisis de grafos*. Recuperado de https://arodrigu.webs.upv.es/grafos/doku.php?id=algoritmo_prim \[Consulta: 25 de setiembre de 2021].
