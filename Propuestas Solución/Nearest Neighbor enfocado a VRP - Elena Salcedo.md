@@ -8,7 +8,7 @@ Es un algoritmo heurístico que está enfocado en resolver problemas similares a
  <img src="https://knuth.uca.es/moodle/pluginfile.php/9502/mod_page/content/12/vecino_mas_cercano.png" />
 	</p>
 <p align="center">
-Selección del próximo nodo mediante el uso del algoritmo del vecino más cercano. 
+Figura 1: Selección del próximo nodo mediante el uso del algoritmo del vecino más cercano. 
 Muñoz, M. (2015). El viajante de comercio. [Figura]. Recuperado de http://knuth.uca.es/moodle/mod/page/view.php?id=3417
 </p>
 
