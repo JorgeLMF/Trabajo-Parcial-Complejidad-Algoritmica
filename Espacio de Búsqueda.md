@@ -4,6 +4,8 @@ El problema de enrutamiento de vehículos propone un mapa con una gran cantidad 
 con la intención de encontrar la ruta más eficiente para conectar dichos puntos. Se sabe entonces que los vehículos partiran de uno o más puntos, que servirán de nodo/nodos
 iniciales. 
 
+En un estado inicial, el mapa de puntos no tiene conexiones entre sus puntos pues los almacenes aún no envían los productos a los puntos de entrega.
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/35857164/135735219-cac9e0a3-2478-4fb9-9086-6496e47ced23.png" />
 </p>
@@ -22,5 +24,11 @@ en el orden de los nodos que componen un camino, generando variaciones en los po
   <img src="https://user-images.githubusercontent.com/35857164/135735723-20c3df9e-fe7b-45b8-bade-35e961a86dd3.png" />
 </p>
 
+Este estado final todos los puntos de entrega estarán conectados mediante caminos de distintas longitudes con un punto de distribución y todos los puntos habrán sido visitados una sola vez.
+
 Cabe resaltar que este tipo de problemas no suelen tener soluciones únicas, por lo que en la gran mayoría de los casos, los resultados obtenidos por los algoritmos serán solamente
-respuestas muy cercanas la respuesta definitiva, más no necesariamente la respuesta 100% correcta.
+respuestas muy cercanas a la respuesta definitiva, más no necesariamente la respuesta 100% correcta.
+
+Unas restricciones que tomaremos en cuenta son:
+- Los puntos no podrán ser visitados más de una sola vez
+- Si un punto de entrega coincide con un punto de distribución, este no se tomará en cuenta pues el producto ya habría llegado a su destino.
