@@ -1,3 +1,5 @@
+##Esta representacion es de una matriz de ayacencia de 1000x1000, en el que los elementos 1=almacenes, 2=puntos de entrega.
+
 import pandas as pd
 url = "https://raw.githubusercontent.com/JorgeLMF/cc42_tf_202014828_201915747_201921559_201811355_201714378/main/DATASET/almacenesXyY.csv"
 url2 = "https://raw.githubusercontent.com/JorgeLMF/cc42_tf_202014828_201915747_201921559_201811355_201714378/main/DATASET/puntosentregaXyY.csv"
