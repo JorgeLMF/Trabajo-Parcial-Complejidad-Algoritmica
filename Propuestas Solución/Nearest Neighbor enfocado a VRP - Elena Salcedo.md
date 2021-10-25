@@ -1,3 +1,20 @@
+# Nearest Neighbor enfocado a VRP
+
+## Descripción
+<p align="justify">
+Es un algoritmo heurístico que está enfocado en resolver problemas similares al TSP, mediante la búsqueda de un árbol de expansión mínima. Para ello, primero, selecciona un nodo al azar como punto de partida. Luego, desde el vértice elegido donde se encuentra el viajero, lo enlaza con el nodo con mayor proximidad a este, solamente si el viajero no ha transitado por este anteriormente. Este proceso se repite hasta que todos los vértices hayan sido recorridos. (Salazar, 2019)
+	</p>
+<p align="center">
+ <img src="https://knuth.uca.es/moodle/pluginfile.php/9502/mod_page/content/12/vecino_mas_cercano.png" />
+	</p>
+<p align="center">
+Figura 1: Selección del próximo nodo mediante el uso del algoritmo del vecino más cercano. 
+Muñoz, M. (2015). El viajante de comercio. [Figura]. Recuperado de http://knuth.uca.es/moodle/mod/page/view.php?id=3417
+</p>
+
+## Análisis Asimptótico de posible algoritmo principal
+
+```
 def nearest_neighbor(grafo, nodo_del_cual_partir, nodo_final):						.	T(n):
 	si nodo del cual partir igual a nodo final:							.		1
 		terminar funcion									.		   1
@@ -25,3 +42,8 @@ log_2(2) = 1
 1 < 2
 
 T(n) = O(n^2)
+```
+
+## Referencia bibliográfica:
+
+Salazar, B. (2019). *Problema del agente viajero – TSP*. Recuperado de:  https://www.ingenieriaindustrialonline.com/investigacion-de-operaciones/problema-del-agente-viajero-tsp/
