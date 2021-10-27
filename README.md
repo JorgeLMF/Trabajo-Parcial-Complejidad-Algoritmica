@@ -9,6 +9,5 @@ Integrantes:
 - Luis Pineda Knox        U201915747
 - Nicole Price Torrejon   U201921559
 - Jorge Mercado Fassioli  U201811355
-- René Puertolas Valdivia U201714378
 
 [Video reporte de actividades](https://youtu.be/YWHFkhybiKI)
