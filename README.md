@@ -1,4 +1,4 @@
-# Trabajo-Parcial-Complejidad-Algoritmica
+# Trabajo-Final-Complejidad-Algoritmica
 1) Definir plan de seguimiento
 2) Determinar método de resolución de cada integrante
 3) Ayudarse mutuamente
@@ -10,4 +10,4 @@ Integrantes:
 - Nicole Price Torrejon   U201921559
 - Jorge Mercado Fassioli  U201811355
 
-[Video reporte de actividades](https://youtu.be/YWHFkhybiKI)
+[Video Final](https://youtu.be/DUoXkKjldio)
